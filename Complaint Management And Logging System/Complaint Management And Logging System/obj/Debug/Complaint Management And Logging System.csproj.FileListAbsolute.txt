@@ -1,0 +1,32 @@
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint Management And Logging System.exe.config
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint Management And Logging System.exe
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint Management And Logging System.pdb
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.csproj.AssemblyReference.cache
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.Properties.Resources.resources
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.csproj.GenerateResource.cache
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.csproj.CoreCompileInputs.cache
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.exe
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.pdb
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint_System.mdf
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint_System_log.ldf
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.LogIN.resources
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.Customer_Complain.resources
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.Admin_Panel.resources
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.CustomerAccount.resources
+C:\Users\92318\source\repos\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.TrackComplain.resources
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint_System.mdf
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint_System_log.ldf
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint Management And Logging System.exe.config
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint Management And Logging System.exe
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\bin\Debug\Complaint Management And Logging System.pdb
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.Admin_Panel.resources
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.CustomerAccount.resources
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.Customer_Complain.resources
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.LogIN.resources
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.Properties.Resources.resources
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint_Management_And_Logging_System.TrackComplain.resources
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.exe
+C:\Users\Hp\Desktop\Complaint Management And Logging System\Complaint Management And Logging System\obj\Debug\Complaint Management And Logging System.pdb
